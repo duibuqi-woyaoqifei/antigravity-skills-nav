@@ -125,7 +125,7 @@ const toggleLanguage = () => {
         <div class="modal-content glass-card">
           <button class="close-btn" @click="closeModal">×</button>
           <div class="modal-header">
-            <span class="category-tag">{{ activeSkill.category }}</span>
+            <span class="category-tag">{{ isEnglish ? activeSkill.category_en : activeSkill.category_zh }}</span>
             <h2>{{ activeSkill.name }}</h2>
             <code class="skill-id">@{{ activeSkill.id }}</code>
           </div>
