@@ -226,8 +226,8 @@
   {
     "id": "agentic-actions-auditor",
     "name": "agentic-actions-auditor",
-    "description_en": ">",
-    "description_zh": "&gt;",
+    "description_en": "Analyzes and validates AI agent actions for security, compliance, and logic errors.",
+    "description_zh": "分析和验证 AI 代理操作的安全性、合规性和逻辑错误。",
     "category_zh": "安全审计",
     "category_en": "Security"
   },
@@ -282,7 +282,7 @@
   {
     "id": "ai-analyzer",
     "name": "ai-analyzer",
-    "description_en": "AI驱动的综合健康分析系统，整合多维度健康数据、识别异常模式、预测健康风险、提供个性化建议。支持智能问答和AI健康报告生成。",
+    "description_en": "AI-driven comprehensive health analysis system, integrating multi-dimensional health data, identifying abnormal patterns, predicting health risks, and providing personalized recommendations. Supports intelligent Q&A and AI health report generation.",
     "description_zh": "AI驱动的综合健康分析系统，整合多维度健康数据、识别异常模式、预测健康风险、提供个性化建议。支持智能问答和AI报告健康生成。",
     "category_zh": "人工智能",
     "category_en": "AI"
@@ -338,8 +338,8 @@
   {
     "id": "ai-product",
     "name": "ai-product",
-    "description_en": "Every product will be AI-powered. The question is whether you'll",
-    "description_zh": "每个产品都将由人工智能驱动。问题是您是否会",
+    "description_en": "Every product will become AI-powered. The key question is whether you will adapt and integrate AI into your workflow and decision-making.",
+    "description_zh": "每个产品都将变得由人工智能驱动。关键问题在于你是否能够适应并将AI融入你的工作流程与决策过程。",
     "category_zh": "人工智能",
     "category_en": "AI"
   },
@@ -530,8 +530,8 @@
   {
     "id": "anti-reversing-techniques",
     "name": "anti-reversing-techniques",
-    "description_en": "AUTHORIZED USE ONLY: This skill contains dual-use security techniques. Before proceeding with any bypass or analysis: > 1.",
-    "description_zh": "仅限授权使用：该技能包含双重用途安全技术。在进行任何旁路或分析之前： &gt; 1.",
+    "description_en": "Security-focused techniques designed to protect software from reverse engineering, including obfuscation, integrity checks, and tamper resistance mechanisms.",
+    "description_zh": "面向安全防护的软件反逆向技术，包括代码混淆、完整性校验以及防篡改机制，用于提升系统安全性。",
     "category_zh": "安全审计",
     "category_en": "Security"
   },
@@ -2594,8 +2594,8 @@
   {
     "id": "clarity-gate",
     "name": "clarity-gate",
-    "description_en": ">",
-    "description_zh": "&gt;",
+    "description_en": "A skill designed to prevent missteps or errors by analyzing the context, intent, and implications of a user's request. It acts as a safety check, ",
+    "description_zh": "一个旨在通过分析用户请求的上下文、意图和影响来防止失误或错误的技能。它充当安全检查，",
     "category_zh": "通用技能",
     "category_en": "General"
   },
@@ -2962,8 +2962,8 @@
   {
     "id": "comprehensive-review-pr-enhance",
     "name": "comprehensive-review-pr-enhance",
-    "description_en": ">",
-    "description_zh": "&gt;",
+    "description_en": "Expert in enhancing pull requests with code review best practices, performance analysis, and automated quality checks.",
+    "description_zh": "在代码审查最佳实践、性能分析和自动化质量检查方面增强拉取请求的专家。",
     "category_zh": "通用技能",
     "category_en": "General"
   },
@@ -3184,10 +3184,10 @@
     "category_en": "AI"
   },
   {
-    "id": "conversation-memory",
+  "id": "conversation-memory",
     "name": "conversation-memory",
-    "description_en": "Persistent memory systems for LLM conversations including",
-    "description_zh": "用于 LLM 对话的持久内存系统，包括",
+    "description_en": "Persistent memory systems for LLM conversations, enabling context retention, user preference storage, and long-term interaction continuity across sessions.",
+    "description_zh": "用于大语言模型对话的持久化记忆系统，支持上下文保留、用户偏好存储以及跨会话的长期交互连续性。",
     "category_zh": "人工智能",
     "category_en": "AI"
   },
@@ -4194,8 +4194,8 @@
   {
     "id": "explain-like-socrates",
     "name": "explain-like-socrates",
-    "description_en": ">",
-    "description_zh": "&gt;",
+    "description_en": "Deeply analyzes and explains complex topics using philosophical inquiry and Socratic dialogue methods.",
+    "description_zh": "使用哲学探究和苏格拉底对话方法深入分析和解释复杂主题。",
     "category_zh": "人工智能",
     "category_en": "AI"
   },
@@ -5930,8 +5930,8 @@
   {
     "id": "keyword-extractor",
     "name": "keyword-extractor",
-    "description_en": ">",
-    "description_zh": "&gt;",
+    "description_en": "Extracts key phrases and important terms from text using natural language processing techniques.",
+    "description_zh": "使用自然语言处理技术从文本中提取关键词和重要术语。",
     "category_zh": "通用技能",
     "category_en": "General"
   },
@@ -6330,8 +6330,8 @@
   {
     "id": "llm-structured-output",
     "name": "llm-structured-output",
-    "description_en": ">",
-    "description_zh": "&gt;",
+    "description_en": "Master structured output generation for LLMs using Pydantic, JSON Schema, and function calling to ensure reliable, parseable responses.",
+    "description_zh": "掌握使用 Pydantic、JSON Schema 和函数调用为 LLM 生成结构化输出的技术，以确保可靠、可解析的响应。",
     "category_zh": "人工智能",
     "category_en": "AI"
   },
@@ -6371,7 +6371,7 @@
     "id": "loki-mode",
     "name": "loki-mode",
     "description_en": "Version 2.35.0 | PRD to Production | Zero Human Intervention > Research-enhanced: OpenAI SDK, DeepMind, Anthropic, AWS Bedrock, Agent SDK, HN Producti",
-    "description_zh": "版本 2.35.0 |珠三角到生产|零人为干预 &gt; 研究增强：OpenAI SDK、DeepMind、Anthropic、AWS Bedrock、Agent SDK、HN Producti",
+    "description_zh": "版本 2.35.0 |珠三角到生产|零人为干预 > 研究增强：OpenAI SDK、DeepMind、Anthropic、AWS Bedrock、Agent SDK、HN Producti",
     "category_zh": "人工智能",
     "category_en": "AI"
   },
@@ -6563,7 +6563,7 @@
     "id": "makepad-widgets",
     "name": "makepad-widgets",
     "description_en": "Version: makepad-widgets (dev branch) | Last Updated: 2026-01-19 > > Check for updates: https://crates.io/crates/makepad-widgets",
-    "description_zh": "版本：makepad-widgets（开发分支）|最后更新：2026-01-19 &gt;&gt; 检查更新：https://crates.io/crates/makepad-widgets",
+    "description_zh": "版本：makepad-widgets（开发分支）|最后更新：2026-01-19 > > 检查更新：https://crates.io/crates/makepad-widgets",
     "category_zh": "通用技能",
     "category_en": "General"
   },
@@ -6699,7 +6699,7 @@
     "id": "metasploit-framework",
     "name": "metasploit-framework",
     "description_en": "⚠️ AUTHORIZED USE ONLY > This skill is for educational purposes or authorized security assessments only. > You must have explicit, written permission ",
-    "description_zh": "⚠️ 仅限授权使用 &gt; 此技能仅用于教育目的或授权安全评估。 &gt; 您必须拥有明确的书面许可",
+    "description_zh": "⚠️ 仅限授权使用 > 此技能仅用于教育目的或授权安全评估。 > 您必须拥有明确的书面许可",
     "category_zh": "安全审计",
     "category_en": "Security"
   },
@@ -6922,8 +6922,8 @@
   {
     "id": "moyu",
     "name": "moyu",
-    "description_en": ">",
-    "description_zh": "&gt;",
+    "description_en": "Expert in Moyu AI for content creation, marketing copy, and creative writing applications.",
+    "description_zh": "精通 Moyu AI 在内容创作、营销文案和创意写作领域的应用。",
     "category_zh": "通用技能",
     "category_en": "General"
   },
@@ -8034,8 +8034,8 @@
   {
     "id": "professional-proofreader",
     "name": "professional-proofreader",
-    "description_en": ">",
-    "description_zh": "&gt;",
+    "description_en": "Expert in proofreading and editing documents to ensure accuracy, clarity, and grammatical correctness.",
+    "description_zh": "在校对和编辑文档方面经验丰富，确保准确性、清晰度和语法正确性。",
     "category_zh": "通用技能",
     "category_en": "General"
   },
@@ -9058,16 +9058,16 @@
   {
     "id": "seo-competitor-pages",
     "name": "seo-competitor-pages",
-    "description_en": ">",
-    "description_zh": "&gt;",
+    "description_en": "Designs pages that target competitors’ keywords, aiming to capture their traffic and rankings.",
+    "description_zh": "设计针对竞争对手关键词的页面，旨在捕获其流量和排名。",
     "category_zh": "运营增长",
     "category_en": "Growth"
   },
   {
     "id": "seo-content",
     "name": "seo-content",
-    "description_en": ">",
-    "description_zh": "&gt;",
+    "description_en": "SEO content generation and optimization for improving search engine visibility, including keyword integration, content structuring, and ranking-focused writing strategies.",
+    "description_zh": "用于提升搜索引擎可见性的SEO内容生成与优化能力，包括关键词整合、内容结构优化以及面向排名的写作策略。",
     "category_zh": "运营增长",
     "category_en": "Growth"
   },
@@ -9138,8 +9138,8 @@
   {
     "id": "seo-hreflang",
     "name": "seo-hreflang",
-    "description_en": ">",
-    "description_zh": "&gt;",
+    "description_en": "SEO hreflang implementation and management for multilingual websites, ensuring correct language and regional targeting to improve international search engine indexing and user experience.",
+    "description_zh": "多语言网站的SEO hreflang实现与管理，用于确保语言与地区的正确匹配，从而提升国际搜索引擎收录效果与用户体验。",
     "category_zh": "运营增长",
     "category_en": "Growth"
   },
@@ -9154,8 +9154,8 @@
   {
     "id": "seo-images",
     "name": "seo-images",
-    "description_en": ">",
-    "description_zh": "&gt;",
+    "description_en": "Image SEO optimization for improving search visibility, including alt text generation, image metadata structuring, compression strategies, and search-friendly asset naming conventions.",
+    "description_zh": "用于提升搜索可见性的图片SEO优化能力，包括alt文本生成、图片元数据结构化、压缩策略以及符合搜索引擎规范的文件命名优化。",
     "category_zh": "运营增长",
     "category_en": "Growth"
   },
@@ -9178,16 +9178,16 @@
   {
     "id": "seo-page",
     "name": "seo-page",
-    "description_en": ">",
-    "description_zh": "&gt;",
+    "description_en": "On-page SEO optimization for web pages, including title and meta tag structuring, content hierarchy design, internal linking strategy, and semantic keyword placement to improve search rankings.",
+    "description_zh": "网页级SEO优化能力，包括标题与元标签结构优化、内容层级设计、内部链接策略以及语义关键词布局，用于提升搜索排名。",
     "category_zh": "运营增长",
     "category_en": "Growth"
   },
   {
     "id": "seo-plan",
     "name": "seo-plan",
-    "description_en": ">",
-    "description_zh": "&gt;",
+    "description_en": "SEO strategy planning for building long-term organic traffic growth, including keyword research, content roadmap design, competitive analysis, and ranking strategy development.",
+    "description_zh": "SEO策略规划能力，用于构建长期自然流量增长体系，包括关键词研究、内容路线规划、竞争分析以及排名策略设计。",
     "category_zh": "运营增长",
     "category_en": "Growth"
   },
@@ -9202,16 +9202,16 @@
   {
     "id": "seo-schema",
     "name": "seo-schema",
-    "description_en": ">",
-    "description_zh": "&gt;",
+    "description_en": "Structured data (Schema.org) implementation for SEO, enabling search engines to better understand page content and enhance search result appearance through rich snippets.",
+    "description_zh": "SEO结构化数据（Schema.org）实现能力，用于帮助搜索引擎更好理解页面内容，并通过富摘要提升搜索结果展示效果。",
     "category_zh": "运营增长",
     "category_en": "Growth"
   },
   {
     "id": "seo-sitemap",
     "name": "seo-sitemap",
-    "description_en": ">",
-    "description_zh": "&gt;",
+    "description_en": "XML sitemap generation and management for search engine indexing, ensuring all important pages are discoverable and properly crawled by search engines.",
+    "description_zh": "XML站点地图生成与管理能力，用于优化搜索引擎索引过程，确保重要页面可被发现并正确抓取。",
     "category_zh": "运营增长",
     "category_en": "Growth"
   },
@@ -9978,8 +9978,8 @@
   {
     "id": "task-intelligence",
     "name": "task-intelligence",
-    "description_en": "Protocolo de Inteligência Pré-Tarefa — ativa TODOS os agentes relevantes do ecossistema ANTES de executar qualquer tarefa solicitada pelo usuário.",
-    "description_zh": "Protocolo de Inteligência Pré-Tarefa - ativa TODOS os agentes do ecossistema ANTES de executar qualquer tarefa solicitada pelo usuário。",
+    "description_en": "Pre-Task Intelligence Protocol — activates ALL relevant agents in the ecosystem BEFORE executing any task requested by the user.",
+    "description_zh": "任务前情报协议 - 在执行用户请求的任何任务之前激活生态系统中的所有相关智能体。",
     "category_zh": "人工智能",
     "category_en": "AI"
   },
@@ -9994,7 +9994,7 @@
   {
     "id": "tcm-constitution-analyzer",
     "name": "tcm-constitution-analyzer",
-    "description_en": "分析中医体质数据、识别体质类型、评估体质特征,并提供个性化养生建议。支持与营养、运动、睡眠等健康数据的关联分析。",
+    "description_en": "Analyzes TCM constitution data, identifies body types, evaluates physical characteristics, and provides personalized wellness suggestions. Supports correlation analysis with health data such as nutrition, exercise, and sleep.",
     "description_zh": "分析中医体质数据、识别体质类型、评估体质特征，并提供个性化养生建议。支持与营养、运动、睡眠等健康数据的关联分析。",
     "category_zh": "通用技能",
     "category_en": "General"
@@ -10082,8 +10082,8 @@
   {
     "id": "telegram",
     "name": "telegram",
-    "description_en": "Integracao completa com Telegram Bot API. Setup com BotFather, mensagens, webhooks, inline keyboards, grupos, canais. Boilerplates Node.js e Python.",
-    "description_zh": "Integracao 完整的 Telegram Bot API。设置 com BotFather、mensagens、webhooks、内联键盘、grupos、canais。 Node.js 和 Python 样板。",
+    "description_en": "Complete integration with Telegram Bot API. Setup with BotFather, messages, webhooks, inline keyboards, groups, channels. Node.js and Python boilerplates.",
+    "description_zh": "完整的 Telegram Bot API 集成。使用 BotFather、消息、webhooks、内联键盘、群组、频道设置。 Node.js 和 Python 样板。",
     "category_zh": "Web前端",
     "category_en": "Web"
   },
@@ -10394,8 +10394,8 @@
   {
     "id": "travel-health-analyzer",
     "name": "travel-health-analyzer",
-    "description_en": "分析旅行健康数据、评估目的地健康风险、提供疫苗接种建议、生成多语言紧急医疗信息卡片。支持WHO/CDC数据集成的专业级旅行健康风险评估。",
-    "description_zh": "分析旅行健康数据、评估目的地健康风险、提供疫苗接种、生成多语言紧急医疗信息响应。支持WHO/CDC数据集成的专业级旅行健康风险评估。",
+    "description_en": "Analyzes travel health data, evaluates destination health risks, provides vaccination recommendations, and generates multilingual emergency medical information cards. Supports professional-level travel health risk assessments integrated with WHO/CDC data.",
+    "description_zh": "分析旅行健康数据、评估目的地健康风险、提供疫苗接种建议、生成多语言紧急医疗信息卡片。支持WHO/CDC数据集成的专业级旅行健康风险评估。",
     "category_zh": "通用技能",
     "category_en": "General"
   },
@@ -11010,8 +11010,8 @@
   {
     "id": "weightloss-analyzer",
     "name": "weightloss-analyzer",
-    "description_en": "分析减肥数据、计算代谢率、追踪能量缺口、管理减肥阶段",
-    "description_zh": "分析减肥数据、计算助攻率、追踪能量缺口、管理减肥阶段",
+    "description_en": "Analyze weight loss data, calculate metabolic rate, track energy deficit, and manage weight loss stages.",
+    "description_zh": "分析减肥数据、计算代谢率、追踪能量缺口、管理减肥阶段",
     "category_zh": "通用技能",
     "category_en": "General"
   },
@@ -11035,7 +11035,7 @@
     "id": "whatsapp-cloud-api",
     "name": "whatsapp-cloud-api",
     "description_en": "Integracao com WhatsApp Business Cloud API (Meta). Mensagens, templates, webhooks HMAC-SHA256, automacao de atendimento. Boilerplates Node.js e Python",
-    "description_zh": "Integracao com WhatsApp Business Cloud API（元）。消息、模板、Webhook HMAC-SHA256、自动处理。 Node.js 和 Python 样板",
+    "description_zh": "与 WhatsApp Business Cloud API（元）集成。消息、模板、Webhook HMAC-SHA256、自动处理。 Node.js 和 Python 样板",
     "category_zh": "Web前端",
     "category_en": "Web"
   },
